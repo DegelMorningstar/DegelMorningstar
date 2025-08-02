@@ -3,10 +3,9 @@
 ![Portada Perfil de Linkedin Profesional Moderno Oscuro](https://user-images.githubusercontent.com/100550658/235553614-eadae45f-1c6c-4a6a-a928-596bd5c00755.png)
 
 ### Sobre mi
-Soy un full stack developer jr.
+Soy un desarrollador Front-End.
 
-He trabajado aplicaciones moviles nativas en android con Java y kotlin, del lado de kotlin he implementado nuevas tecnologias como lo puede ser Jetpack Compose, tambien he trabajado del lado web creando varias aplicaciones en Angular 14 y React.
-En el Back End he trabajado con NodeJS y Express, asi como Spring Boot con JPA.
+He trabajado con aplicaciones Android, iOS y Web, enfocado en el aspecto movil con tecnologias de vanguardia como Jetpack Compose y SwiftUI asi como Angular y React para la parte web.
 
 En mis repositorios podras encontrar un poco de mi trabajo, espero sea de tu agrado.
 
@@ -17,19 +16,19 @@ Saludos.
     
 - **Front-End Development**:
 
-   HTML, CSS, JavaScript, TypeScript, Angular, React, Kotlin
+   Angular, React, Android, iOS, Flutter
 
 <br>
 
 - **Back-End Development**:
 
-    Spring Boot, Express JS, NodeJS, MySQL, PostgreSQL, MongoDB
+    Spring Boot, MySQL, MongoDB
     
 <br>
 
 - **Herramientas**:
     
-    Visual Studio Code, IntelliJ IDEA, Android Studio, Figma, Bizagi, AdobeXD, Postman, Git
+    VS Code, Android Studio, XCode
 
 
 </p>
