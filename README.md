@@ -1,7 +1,5 @@
 <h1 align="center"><b> Hola, mi nombre es Yael</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Portada Perfil de Linkedin Profesional Moderno Oscuro](https://user-images.githubusercontent.com/100550658/235553614-eadae45f-1c6c-4a6a-a928-596bd5c00755.png)
-
 ### Sobre mi
 Soy un desarrollador Front-End.
 
